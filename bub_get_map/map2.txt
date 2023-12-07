@@ -1,0 +1,24 @@
+38.13% = Agriotes fuscicollis Miwa AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=56.63% ; Precision=37.38%
+74.98% = Anomala corpulenta AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=82.87% ; Precision=63.69%
+64.90% = Armyworm AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=68.77% ; Precision=56.97%
+33.91% = Athetis lepigone AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=55.57% ; Precision=30.00%
+70.32% = Bollworm AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=81.99% ; Precision=50.05%
+96.90% = Gryllotalpa orientalis AP 	||	score_threhold=0.5 : F1=0.89 ; Recall=96.88% ; Precision=81.79%
+53.16% = Land tiger AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=55.40% ; Precision=56.62%
+78.97% = Little Gecko AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=81.40% ; Precision=62.35%
+56.12% = Meadow borer AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=77.60% ; Precision=35.22%
+36.80% = Melahotus AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=47.16% ; Precision=45.53%
+31.10% = Nematode trench AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=43.40% ; Precision=40.35%
+0.09% = Plutella xylostella AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.350% ; Precision=4.760%
+28.60% = Rice Leaf Roller AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=52.83% ; Precision=24.56%
+0.02% = Rice planthopper AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.200% ; Precision=1.560%
+31.68% = Scotogramma trifolii Rottemberg AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=47.30% ; Precision=28.92%
+40.40% = Spodoptera cabbage AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=46.76% ; Precision=43.48%
+22.87% = Spodoptera exigua AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=41.18% ; Precision=23.94%
+53.43% = Spodoptera litura AP 	||	score_threhold=0.5 : F1=0.53 ; Recall=59.43% ; Precision=48.27%
+42.90% = Stem borer AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=58.38% ; Precision=38.90%
+28.72% = Striped rice bore AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=38.25% ; Precision=35.33%
+32.69% = Yellow tiger AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=35.20% ; Precision=43.61%
+5.05% = eight-character tiger AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.000% ; Precision=0.000%
+38.89% = holotrichia oblita AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=48.48% ; Precision=34.78%
+68.84% = holotrichia parallela AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=79.45% ; Precision=55.18%

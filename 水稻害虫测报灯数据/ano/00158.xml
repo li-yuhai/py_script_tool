@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC</folder>
+    <filename>00158.jpg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>COCO</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>company</name>
+    </owner>
+    <size>
+        <width>5472</width>
+        <height>3648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>9</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1245</xmin>
+            <ymin>1351</ymin>
+            <xmax>1363</xmax>
+            <ymax>1296</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>1475</ymin>
+            <xmax>1062</xmax>
+            <ymax>1373</ymax>
+        </bndbox>
+    </object>
+</annotation>
